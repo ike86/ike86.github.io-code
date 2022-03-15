@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstCodeAnalyzer.Target", "MyFirstCodeAnalyzer.Target\MyFirstCodeAnalyzer.Target.csproj", "{C7C5DD81-A2B4-417A-AA48-8B0FEAA3CFFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstCodeAnalyzer", "MyFirstCodeAnalyzer\MyFirstCodeAnalyzer.csproj", "{BB6A57D7-2847-4A61-A03C-A6538A15440B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C7C5DD81-A2B4-417A-AA48-8B0FEAA3CFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7C5DD81-A2B4-417A-AA48-8B0FEAA3CFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7C5DD81-A2B4-417A-AA48-8B0FEAA3CFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6A57D7-2847-4A61-A03C-A6538A15440B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6A57D7-2847-4A61-A03C-A6538A15440B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6A57D7-2847-4A61-A03C-A6538A15440B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6A57D7-2847-4A61-A03C-A6538A15440B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
